@@ -17,10 +17,10 @@ A single-player Hangman game where the player must guess the hidden word by sugg
 
 ## Technologies Used
 
--React Native
--React Hooks (useState, useEffect)
--JavaScript (ES6+)
--StyleSheet for styling
+- React Native
+- React Hooks (useState, useEffect)
+- JavaScript (ES6+)
+- StyleSheet for styling
 
 ## How to Play
 
