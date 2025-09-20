@@ -8,12 +8,12 @@ A single-player Hangman game where the player must guess the hidden word by sugg
 
 ## Features
 
--Random word selection with hints
--Hidden word displayed with underscores
--Tracks correct and incorrect guesses
--Maximum of 6 errors allowed
--Win/Lose alerts with restart option
--Simple and responsive interface
+- Random word selection with hints
+- Hidden word displayed with underscores
+- Tracks correct and incorrect guesses
+- Maximum of 6 errors allowed
+- Win/Lose alerts with restart option
+- Simple and responsive interface
 
 ## Technologies Used
 
@@ -29,13 +29,13 @@ A single-player Hangman game where the player must guess the hidden word by sugg
 3. Type a letter in the input box and press "Verificar"
 4. Correct letters are revealed, wrong ones increase the error counter
 5. The game ends when:
-  -You discover all letters (Victory 🎉)
-  -You reach 6 mistakes (Game Over 💀)
+  - You discover all letters (Victory 🎉)
+  - You reach 6 mistakes (Game Over 💀)
 6. Use the "Reiniciar" button to play again
 
 ## Game Rules
 
--Only one letter can be typed at a time
--You lose after 6 incorrect guesses
--The game shows alerts for win or loss
--You can always restart after finishing
+- Only one letter can be typed at a time
+- You lose after 6 incorrect guesses
+- The game shows alerts for win or loss
+- You can always restart after finishing
